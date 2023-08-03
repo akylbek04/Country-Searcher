@@ -1,0 +1,10 @@
+.wrapper .content{
+    text-align: left;
+}
+h3, p {
+    border-bottom: 1px solid rgb(71, 71, 71);
+}
+
+.content i{
+    margin-right: 10px;
+}

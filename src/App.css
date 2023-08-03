@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  color: rgb(0, 0, 0);
+  
+}
+
+.App{
+  background-image: url('https://m.media-amazon.com/images/I/61Oanai7ieL.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
